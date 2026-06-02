@@ -20,7 +20,7 @@ I'm currently pursuing a Master's degree in Artificial Intelligence at the Schoo
 - **Shenyang Aerospace University** — Master of Artificial Intelligence (2024 – present)  
   *GPA: 4/47*
 
-- **Shenyang Aerospace University** — Bachelor of Artificial Intelligence (2024 – present)
+- **Shenyang Aerospace University** — Bachelor of Artificial Intelligence (2020 – 2024)
 
 ---
 
@@ -34,10 +34,3 @@ I'm currently pursuing a Master's degree in Artificial Intelligence at the Schoo
 ## Publications
 
 - **PADY-YOLOv8: A Dense Pedestrian Detection Algorithm Based on YOLOv8** *(2024)*
-
----
-
-## Site Configuration
-
-- **site_name:** Shiliyang
-- **site_description:** Master student in Artificial Intelligence

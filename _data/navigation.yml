@@ -11,8 +11,8 @@
 main:
   - title: "Publications"
     url: /publications/
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
   # - title: "Talks"      # 注释掉不需要的
   #   url: /talks/
   # - title: "Teaching"

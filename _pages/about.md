@@ -18,7 +18,7 @@ I'm currently pursuing a Master's degree in Artificial Intelligence at the Schoo
 ## Education
 
 - **Shenyang Aerospace University** — Master of Artificial Intelligence (2024 – present)  
-  *GPA: 4/47*
+
 
 - **Shenyang Aerospace University** — Bachelor of Artificial Intelligence (2020 – 2024)
 

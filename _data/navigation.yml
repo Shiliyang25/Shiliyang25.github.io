@@ -8,9 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 # main links
-main:
-  - title: "Publications"
-    url: /publications/
+# main:
+#   - title: "Publications"
+#     url: /publications/
   # - title: "CV"
   #   url: /cv/
   # - title: "Talks"      # 注释掉不需要的

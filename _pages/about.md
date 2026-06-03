@@ -33,4 +33,4 @@ I'm currently pursuing a Master's degree in Artificial Intelligence at the Schoo
 
 ## Publications
 
-- **PADY-YOLOv8: A Dense Pedestrian Detection Algorithm Based on YOLOv8** *(2024)*
+- **PADY-YOLOv8: A Dense Pedestrian Detection Algorithm Based on YOLOv8** *(2025)*
